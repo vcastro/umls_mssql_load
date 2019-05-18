@@ -1,0 +1,15 @@
+13.0
+13
+1       SQLCHAR            0       8       "|"      1     CUI                  SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR            0       10      "|"      2     LUI                  SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR            0       10      "|"      3     SUI                  SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR            0       100     "|"      4     METAUI               SQL_Latin1_General_CP1_CI_AS
+5       SQLCHAR            0       50      "|"      5     STYPE                SQL_Latin1_General_CP1_CI_AS
+6       SQLCHAR            0       100     "|"      6     CODE                 SQL_Latin1_General_CP1_CI_AS
+7       SQLCHAR            0       11      "|"      7     ATUI                 SQL_Latin1_General_CP1_CI_AS
+8       SQLCHAR            0       50      "|"      8     SATUI                SQL_Latin1_General_CP1_CI_AS
+9       SQLCHAR            0       100     "|"      9     ATN                  SQL_Latin1_General_CP1_CI_AS
+10      SQLCHAR            0       20      "|"      10    SAB                  SQL_Latin1_General_CP1_CI_AS
+11      SQLCHAR            0       0       "|"      11    ATV                  SQL_Latin1_General_CP1_CI_AS
+12      SQLCHAR            0       1       "|"      12    SUPPRESS             SQL_Latin1_General_CP1_CI_AS
+13      SQLINT             0       4       "\r\n"   13    CVF                  ""

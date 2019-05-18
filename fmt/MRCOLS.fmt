@@ -1,0 +1,10 @@
+13.0
+8
+1       SQLCHAR            0       40      "|"      1     COL        SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR            0       200     "|"      2     DES        SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR            0       40      "|"      3     REF        SQL_Latin1_General_CP1_CI_AS
+4       SQLINT             0       4       "|"      4     MIN        ""
+5       SQLNUMERIC         0       19      "|"      5     AV         ""
+6       SQLINT             0       4       "|"      6     MAX        ""
+7       SQLCHAR            0       50      "|"      7     FIL        SQL_Latin1_General_CP1_CI_AS
+8       SQLCHAR            0       40      "\r\n"   8     DTY        SQL_Latin1_General_CP1_CI_AS

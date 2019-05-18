@@ -1,0 +1,11 @@
+13.0
+9
+1       SQLCHAR            0       8       "|"      1     CUI          SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR            0       9       "|"      2     AUI          SQL_Latin1_General_CP1_CI_AS
+3       SQLINT             0       4       "|"      3     CXN          ""
+4       SQLCHAR            0       10      "|"      4     PAUI         SQL_Latin1_General_CP1_CI_AS
+5       SQLCHAR            0       40      "|"      5     SAB          SQL_Latin1_General_CP1_CI_AS
+6       SQLCHAR            0       100     "|"      6     RELA         SQL_Latin1_General_CP1_CI_AS
+7       SQLCHAR            0       1000    "|"      7     PTR          SQL_Latin1_General_CP1_CI_AS
+8       SQLCHAR            0       100     "|"      8     HCD          SQL_Latin1_General_CP1_CI_AS
+9       SQLINT             0       4       "\r\n"   9     CVF          ""

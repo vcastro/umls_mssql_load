@@ -1,0 +1,18 @@
+13.0
+16
+1       SQLCHAR            0       8       "|"      1     CUI1                 SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR            0       9       "|"      2     AUI1                 SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR            0       50      "|"      3     STYPE1               SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR            0       4       "|"      4     REL                  SQL_Latin1_General_CP1_CI_AS
+5       SQLCHAR            0       8       "|"      5     CUI2                 SQL_Latin1_General_CP1_CI_AS
+6       SQLCHAR            0       9       "|"      6     AUI2                 SQL_Latin1_General_CP1_CI_AS
+7       SQLCHAR            0       50      "|"      7     STYPE2               SQL_Latin1_General_CP1_CI_AS
+8       SQLCHAR            0       100     "|"      8     RELA                 SQL_Latin1_General_CP1_CI_AS
+9       SQLCHAR            0       10      "|"      9     RUI                  SQL_Latin1_General_CP1_CI_AS
+10      SQLCHAR            0       50      "|"      10    SRUI                 SQL_Latin1_General_CP1_CI_AS
+11      SQLCHAR            0       20      "|"      11    SAB                  SQL_Latin1_General_CP1_CI_AS
+12      SQLCHAR            0       20      "|"      12    SL                   SQL_Latin1_General_CP1_CI_AS
+13      SQLCHAR            0       10      "|"      13    RG                   SQL_Latin1_General_CP1_CI_AS
+14      SQLCHAR            0       1       "|"      14    DIR                  SQL_Latin1_General_CP1_CI_AS
+15      SQLCHAR            0       1       "|"      15    SUPPRESS             SQL_Latin1_General_CP1_CI_AS
+16      SQLINT              0       4       "\r\n"   16    CVF                  ""

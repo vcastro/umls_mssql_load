@@ -1,0 +1,7 @@
+13.0
+5
+1       SQLCHAR            0       3       "|"      1     LAT          SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR            0       3000    "|"      2     NSTR         SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR            0       8       "|"      3     CUI          SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR            0       10      "|"      4     LUI          SQL_Latin1_General_CP1_CI_AS
+5       SQLCHAR            0       10      "\r\n"   5     SUI          SQL_Latin1_General_CP1_CI_AS

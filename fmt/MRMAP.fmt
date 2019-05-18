@@ -1,0 +1,28 @@
+13.0
+26
+1       SQLCHAR            0       8       "|"      1     MAPSETCUI                  SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR            0       40      "|"      2     MAPSETSAB                  SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR            0       10      "|"      3     MAPSUBSETID                SQL_Latin1_General_CP1_CI_AS
+4       SQLINT             0       4       "|"      4     MAPRANK                    ""
+5       SQLCHAR            0       50      "|"      5     MAPID                      SQL_Latin1_General_CP1_CI_AS
+6       SQLCHAR            0       50      "|"      6     MAPSID                     SQL_Latin1_General_CP1_CI_AS
+7       SQLCHAR            0       50      "|"      7     FROMID                     SQL_Latin1_General_CP1_CI_AS
+8       SQLCHAR            0       50      "|"      8     FROMSID                    SQL_Latin1_General_CP1_CI_AS
+9       SQLCHAR            0       4000    "|"      9     FROMEXPR                   SQL_Latin1_General_CP1_CI_AS
+10      SQLCHAR            0       50      "|"      10    FROMTYPE                   SQL_Latin1_General_CP1_CI_AS
+11      SQLCHAR            0       4000    "|"      11    FROMRULE                   SQL_Latin1_General_CP1_CI_AS
+12      SQLCHAR            0       4000    "|"      12    FROMRES                    SQL_Latin1_General_CP1_CI_AS
+13      SQLCHAR            0       4       "|"      13    REL                        SQL_Latin1_General_CP1_CI_AS
+14      SQLCHAR            0       100     "|"      14    RELA                       SQL_Latin1_General_CP1_CI_AS
+15      SQLCHAR            0       50      "|"      15    TOID                       SQL_Latin1_General_CP1_CI_AS
+16      SQLCHAR            0       50      "|"      16    TOSID                      SQL_Latin1_General_CP1_CI_AS
+17      SQLCHAR            0       4000    "|"      17    TOEXPR                     SQL_Latin1_General_CP1_CI_AS
+18      SQLCHAR            0       50      "|"      18    TOTYPE                     SQL_Latin1_General_CP1_CI_AS
+19      SQLCHAR            0       4000    "|"      19    TORULE                     SQL_Latin1_General_CP1_CI_AS
+20      SQLCHAR            0       4000    "|"      20    TORES                      SQL_Latin1_General_CP1_CI_AS
+21      SQLCHAR            0       4000    "|"      21    MAPRULE                    SQL_Latin1_General_CP1_CI_AS
+22      SQLCHAR            0       4000    "|"      22    MAPRES                     SQL_Latin1_General_CP1_CI_AS
+23      SQLCHAR            0       50      "|"      23    MAPTYPE                    SQL_Latin1_General_CP1_CI_AS
+24      SQLCHAR            0       100     "|"      24    MAPATN                     SQL_Latin1_General_CP1_CI_AS
+25      SQLCHAR            0       4000    "|"      25    MAPATV                     SQL_Latin1_General_CP1_CI_AS
+26      SQLINT             0       4       "\r\n"   26    CVF                        ""

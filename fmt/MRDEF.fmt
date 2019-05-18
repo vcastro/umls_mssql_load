@@ -1,0 +1,10 @@
+13.0
+8
+1       SQLCHAR            0       8       "|"      1     CUI                  SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR            0       9       "|"      2     AUI                  SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR            0       11      "|"      3     ATUI                 SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR            0       50      "|"      4     SATUI                SQL_Latin1_General_CP1_CI_AS
+5       SQLCHAR            0       20      "|"      5     SAB                  SQL_Latin1_General_CP1_CI_AS
+6       SQLCHAR            0       0       "|"      6     DEF                  SQL_Latin1_General_CP1_CI_AS
+7       SQLCHAR            0       1       "|"      7     SUPPRESS             SQL_Latin1_General_CP1_CI_AS
+8       SQLINT             0       4       "\r\n"   8     CVF                  ""

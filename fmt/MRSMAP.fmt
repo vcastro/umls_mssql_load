@@ -1,0 +1,13 @@
+13.0
+11
+1       SQLCHAR            0       8       "|"      1     MAPSETCUI              SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR            0       40      "|"      2     MAPSETSAB              SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR            0       50      "|"      3     MAPID                  SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR            0       50      "|"      4     MAPSID                 SQL_Latin1_General_CP1_CI_AS
+5       SQLCHAR            0       4000    "|"      5     FROMEXPR               SQL_Latin1_General_CP1_CI_AS
+6       SQLCHAR            0       50      "|"      6     FROMTYPE               SQL_Latin1_General_CP1_CI_AS
+7       SQLCHAR            0       4       "|"      7     REL                    SQL_Latin1_General_CP1_CI_AS
+8       SQLCHAR            0       100     "|"      8     RELA                   SQL_Latin1_General_CP1_CI_AS
+9       SQLCHAR            0       4000    "|"      9     TOEXPR                 SQL_Latin1_General_CP1_CI_AS
+10      SQLCHAR            0       50      "|"      10    TOTYPE                 SQL_Latin1_General_CP1_CI_AS
+11      SQLINT             0       4       "\r\n"   11    CVF                    ""

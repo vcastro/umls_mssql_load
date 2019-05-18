@@ -1,0 +1,27 @@
+13.0
+25
+1       SQLCHAR            0       8       "|"      1     VCUI             SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR            0       8       "|"      2     RCUI             SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR            0       40      "|"      3     VSAB             SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR            0       40      "|"      4     RSAB             SQL_Latin1_General_CP1_CI_AS
+5       SQLCHAR            0       3000    "|"      5     SON              SQL_Latin1_General_CP1_CI_AS
+6       SQLCHAR            0       40      "|"      6     SF               SQL_Latin1_General_CP1_CI_AS
+7       SQLCHAR            0       40      "|"      7     SVER             SQL_Latin1_General_CP1_CI_AS
+8       SQLCHAR            0       8       "|"      8     VSTART           SQL_Latin1_General_CP1_CI_AS
+9       SQLCHAR            0       8       "|"      9     VEND             SQL_Latin1_General_CP1_CI_AS
+10      SQLCHAR            0       10      "|"      10    IMETA            SQL_Latin1_General_CP1_CI_AS
+11      SQLCHAR            0       10      "|"      11    RMETA            SQL_Latin1_General_CP1_CI_AS
+12      SQLCHAR            0       1000    "|"      12    SLC              SQL_Latin1_General_CP1_CI_AS
+13      SQLCHAR            0       1000    "|"      13    SCC              SQL_Latin1_General_CP1_CI_AS
+14      SQLINT              0       4       "|"      14    SRL              ""
+15      SQLINT              0       4       "|"      15    TFR              ""
+16      SQLINT              0       4       "|"      16    CFR              ""
+17      SQLCHAR            0       50      "|"      17    CXTY             SQL_Latin1_General_CP1_CI_AS
+18      SQLCHAR            0       400     "|"      18    TTYL             SQL_Latin1_General_CP1_CI_AS
+19      SQLCHAR            0       4000    "|"      19    ATNL             SQL_Latin1_General_CP1_CI_AS
+20      SQLCHAR            0       3       "|"      20    LAT              SQL_Latin1_General_CP1_CI_AS
+21      SQLCHAR            0       40      "|"      21    CENC             SQL_Latin1_General_CP1_CI_AS
+22      SQLCHAR            0       1       "|"      22    CURVER           SQL_Latin1_General_CP1_CI_AS
+23      SQLCHAR            0       1       "|"      23    SABIN            SQL_Latin1_General_CP1_CI_AS
+24      SQLCHAR            0       3000    "|"      24    SSN              SQL_Latin1_General_CP1_CI_AS
+25      SQLCHAR            0       4000    "\r\n"   25    SCIT             SQL_Latin1_General_CP1_CI_AS

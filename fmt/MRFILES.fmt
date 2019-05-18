@@ -1,0 +1,8 @@
+13.0
+6
+1       SQLCHAR            0       50      "|"      1     FIL        SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR            0       200     "|"      2     DES        SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR            0       300     "|"      3     FMT        SQL_Latin1_General_CP1_CI_AS
+4       SQLINT             0       4       "|"      4     CLS        ""
+5       SQLINT             0       4       "|"      5     RWS        ""
+6       SQLINT             0       4       "\r\n"   6     BTS        ""
