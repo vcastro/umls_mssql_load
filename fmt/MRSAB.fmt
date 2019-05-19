@@ -24,4 +24,4 @@
 22      SQLCHAR            0       1       "|"      22    CURVER           SQL_Latin1_General_CP1_CI_AS
 23      SQLCHAR            0       1       "|"      23    SABIN            SQL_Latin1_General_CP1_CI_AS
 24      SQLCHAR            0       3000    "|"      24    SSN              SQL_Latin1_General_CP1_CI_AS
-25      SQLCHAR            0       4000    "\r\n"   25    SCIT             SQL_Latin1_General_CP1_CI_AS
+25      SQLCHAR            0       4000    "|\r\n"   25    SCIT             SQL_Latin1_General_CP1_CI_AS

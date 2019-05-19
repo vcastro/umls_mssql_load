@@ -1,5 +1,5 @@
 13.0
-10
+9
 1       SQLCHAR            0       9       "|"      1     AUI1                   SQL_Latin1_General_CP1_CI_AS
 2       SQLCHAR            0       8       "|"      2     CUI1                   SQL_Latin1_General_CP1_CI_AS
 3       SQLCHAR            0       10      "|"      3     VER                    SQL_Latin1_General_CP1_CI_AS
@@ -8,5 +8,4 @@
 6       SQLCHAR            0       4000    "|"      6     MAPREASON              SQL_Latin1_General_CP1_CI_AS
 7       SQLCHAR            0       9       "|"      7     AUI2                   SQL_Latin1_General_CP1_CI_AS
 8       SQLCHAR            0       8       "|"      8     CUI2                   SQL_Latin1_General_CP1_CI_AS
-9       SQLCHAR            0       1       "|"      9     MAPIN                  SQL_Latin1_General_CP1_CI_AS
-10      SQLINT              0       4       "\r\n"   10    CVF                    ""
+9       SQLCHAR            0       1       "|\r\n"  9     MAPIN                  SQL_Latin1_General_CP1_CI_AS

@@ -7,4 +7,4 @@
 5       SQLNUMERIC         0       19      "|"      5     AV         ""
 6       SQLINT             0       4       "|"      6     MAX        ""
 7       SQLCHAR            0       50      "|"      7     FIL        SQL_Latin1_General_CP1_CI_AS
-8       SQLCHAR            0       40      "\r\n"   8     DTY        SQL_Latin1_General_CP1_CI_AS
+8       SQLCHAR            0       40      "|\r\n"   8     DTY        SQL_Latin1_General_CP1_CI_AS

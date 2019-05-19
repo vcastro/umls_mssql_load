@@ -34,4 +34,4 @@ Open a command line window with administrator priveleges and enter umls_load.cmd
 **Notes**
 
 - Only the English Word/String Indexes are loaded
-- UMLS Metathesaurus version UMLS2019AA with all English (SAB=ENG) sources load requires requires 70GB, including indexes
+- UMLS Metathesaurus version UMLS2019AA with all English (SAB=ENG) sources load requires requires 86GB, including indexes

@@ -3,4 +3,4 @@
 1       SQLCHAR            0       50      "|"      1     DOCKEY           SQL_Latin1_General_CP1_CI_AS
 2       SQLCHAR            0       200     "|"      2     VALUE            SQL_Latin1_General_CP1_CI_AS
 3       SQLCHAR            0       50      "|"      3     TYPE             SQL_Latin1_General_CP1_CI_AS
-4       SQLCHAR            0       1000    "\r\n"   4     EXPL             SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR            0       1000    "|\r\n"   4     EXPL             SQL_Latin1_General_CP1_CI_AS
